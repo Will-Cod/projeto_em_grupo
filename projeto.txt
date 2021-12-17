@@ -1,7 +1,7 @@
 Tarefas a serem criadas.
 
-Criar uma página Home
+Criar uma branch Home
 
-Criar uma página Contato
+Criar uma branch Contato
 
-Criar uma página Pagamento
+Criar uma branch Pagamento
