@@ -1,0 +1,7 @@
+Tarefas a serem criadas.
+
+Criar uma página Home
+
+Criar uma página Contato
+
+Criar uma página Pagamento
